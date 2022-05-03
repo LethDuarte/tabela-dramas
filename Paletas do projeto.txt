@@ -1,0 +1,38 @@
+Paleta antiga 1 (+/- analoga):
+
+    --cor1: #ef798a;
+    --cor2: #f7a9a8;
+    --cor3: #7d82b8;
+    --cor4: #613f75;
+    --cor5: #e5c3d1;
+    --cor6: #fac1c0;
+
+
+Paleta nova (complementar): 
+	--cor1: #AB6463;
+	--cor2: #FFC8C7;
+	--cor3: #F7A9A8;
+	--cor4: #52AB6E;
+	--cor5: #A8F7C1;
+
+/*cor3 é a cor principal*/
+
+body {
+    background-color: var(--cor3);
+    font-family: var(--fonte2);
+}
+
+Fonte antiga1:
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+'Lobster', cursive;
+
+Paleta nova 2 (monocromático):
+	--cor1: #AB6463;
+	--cor2: #F7918F;
+	--cor3: #B9A3A3;
+	--cor4: #F7DADA;
+	--cor5: #784646;
+/*a cor1 é a cor principal*/
+
+<p class="fonte"> Fonte - Imagem: Google</p>
+        <p class="fonte">Fonte - Sinopse: <a href="https://pt.wikipedia.org/wiki/W_(telenovela)" target="_blank">Wikipédia</a></p>
